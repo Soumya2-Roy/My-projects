@@ -1,4 +1,4 @@
 # My-projects
 This is my first Git Repository
 <br>
-Author-Soumya Roy
+Author-Soumya (Apna College)
